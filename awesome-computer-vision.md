@@ -25,38 +25,39 @@
 23. Hierarchical Neural Architecture Search for Deep Stereo Matching  [[paper](https://arxiv.org/pdf/2010.13501.pdf)][code]
 24. HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tankovich_HITNet_Hierarchical_Iterative_Tile_Refinement_Network_for_Real-time_Stereo_Matching_CVPR_2021_paper.pdf)][[code](https://github.com/google-research/google-research/tree/master/hitnet)][[code](https://github.com/MJITG/PyTorch-HITNet-Hierarchical-Iterative-Tile-Refinement-Network-for-Real-time-Stereo-Matching)][[code](https://github.com/meteorshowers/X-StereoLab)][[code](https://github.com/ibaiGorordo/ONNX-HITNET-Stereo-Depth-estimation)]
 25. Is Pseudo-Lidar needed for Monocular 3D Object detection? [[paper](https://arxiv.org/pdf/2108.06417.pdf)][[code](https://github.com/TRI-ML/dd3d)]
-26. MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching [[paper](https://arxiv.org/pdf/2108.09770.pdf)][[code](https://github.com/cogsys-tuebingen/mobilestereonet)]
-27.  Multi-Level Context Ultra-Aggregation for Stereo Matching  [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nie_Multi-Level_Context_Ultra-Aggregation_for_Stereo_Matching_CVPR_2019_paper.pdf)][]
-28.  Object-Centric Stereo Matching for 3D Object Detection  [[paper](https://arxiv.org/pdf/1909.07566.pdf)][[code](https://github.com/adpon/oc_stereo)]
-29.  Object Scene Flow for Autonomous Vehicles  [[paper](http://www.cvlibs.net/publications/Menze2015CVPR.pdf)][[project](http://www.cvlibs.net/projects/objectsceneflow/)]
-30.  On the Benefit of Adversarial Training for Monocular Depth Estimation [[paper](https://arxiv.org/pdf/1910.13340.pdf)][[code](https://github.com/rickgroen/depthgan)]
-31.  On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey [[paper](https://arxiv.org/pdf/2004.08566.pdf)]
-32.  Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching [[paper](https://arxiv.org/pdf/1806.01677.pdf)][[code](https://github.com/tlkvstepan/PracticalDeepStereo_NIPS2018)]
-33.  Progressive Fusion for Unsupervised Binocular Depth Estimation using Cycled Networks [[paper](https://arxiv.org/abs/1909.07667)][[code](https://github.com/andrea-pilzer/PFN-depth)]
-34.  Pyramid Stereo Matching Network [[paper](https://arxiv.org/pdf/1803.08669.pdf)][[code](https://github.com/JiaRenChang/PSMNet)]
-35.  Real-Time Semantic Stereo Matching  [[paper](https://arxiv.org/pdf/1910.00541.pdf)][code]
-36.  Reversing the cycle: self-supervised deep  stereo through enhanced monocular distillation [[paper](https://arxiv.org/pdf/2008.07130.pdf)][[code](https://github.com/FilippoAleotti/Reversing)]
-37.  Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/pdf/2011.02910.pdf)][[code](https://github.com/mli0603/stereo-transformer)]
-38.  Self-Supervised 3D Keypoint Learning for Ego-Motion Estimation [[paper](https://arxiv.org/pdf/1912.03426.pdf)][code]
-39.  Self-Supervised Learning for Stereo Matching with Self-Improving Ability  [[paper](http://xxx.itp.ac.cn/pdf/1709.00930.pdf)][code]
-40.  Self-supervised Learning in Depth [[blog](https://medium.com/toyotaresearch/self-supervised-learning-in-depth-part-1-of-2-74825baaaa04)][[blog](https://medium.com/toyotaresearch/self-supervised-learning-in-depth-part-2-of-2-93a42ce6586f)]
-41.  Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance [[paper](https://arxiv.org/pdf/2007.06936.pdf)][[code](https://github.com/ifnspaml/SGDepth)]
-42. Semantically-Guided Representation Learning for Self-Supervised Monocular Depth [[paper](https://arxiv.org/pdf/2002.12319.pdf)][[code](https://github.com/TRI-ML/packnet-sfm)]
-43.  Semantic Stereo Matching with Pyramid Cost Volumes  [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Semantic_Stereo_Matching_With_Pyramid_Cost_Volumes_ICCV_2019_paper.pdf)][code]
-44.  SimNet: Enabling Robust Unknown Object Manipulation from Pure Synthetic Data via Stereo [[paper](https://arxiv.org/abs/2106.16118)][[code](https://github.com/ToyotaResearchInstitute/simnet)][[blog](https://sites.google.com/view/simnet-corl-2021)][[blog](https://medium.com/toyotaresearch/enabling-real-world-object-manipulation-with-sim-to-real-transfer-20d4962e029)]
-45.  Single View Stereo Matching  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Single_View_Stereo_CVPR_2018_paper.pdf)][[code](https://github.com/lawy623/SVS)]
-46. Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion [[paper](https://arxiv.org/pdf/2103.16690.pdf)][[code](https://github.com/TRI-ML/packnet-sfm)]
-47.  Stereo Matching Using Multi-level Cost Volume and Multi-scale Feature Constancy  [paper]
-48.  StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction [[paper](https://arxiv.org/pdf/1807.08865.pdf)][[code](https://github.com/andrewlstewart/StereoNet_PyTorch)]
-49. SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation [[paper](https://arxiv.org/pdf/1810.01849.pdf)][code]
-50.  The Edge of Depth: Explicit Constraints between Segmentation and Depth [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_The_Edge_of_Depth_Explicit_Constraints_Between_Segmentation_and_Depth_CVPR_2020_paper.pdf)][[code](https://github.com/TWJianNuo/EdgeDepth-Release)][[project](http://cvlab.cse.msu.edu/project-edgedepth.html)]
-51. Unsupervised Adversarial Depth Estimation using Cycled Generative Networks [[paper](https://arxiv.org/pdf/1807.10915.pdf)][[code](https://github.com/andrea-pilzer/unsup-stereo-depthGAN)]
-52. Unsupervised Learning of Stereo Matching  [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Unsupervised_Learning_of_ICCV_2017_paper.pdf)][code]
-53. Unsupervised monocular depth estimation with left-right consistency [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)][[code](https://github.com/mrharicot/monodepth)][[code](https://github.com/OniroAI/MonoDepth-PyTorch)][[code](https://github.com/alwynmathew/monodepth-pytorch)][[code](https://github.com/vinceecws/Monodepth)][[code](https://github.com/SharhadBashar/Depth-Percetion)][[project](http://visual.cs.ucl.ac.uk/pubs/monoDepth/)]
-54. Vision Transformers for Dense Prediction [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf)][[code](https://github.com/isl-org/DPT)]
-55. Wasserstein Distances for Stereo Disparity Estimation [[paper](https://papers.nips.cc/paper/2020/file/fe7ecc4de28b2c83c016b5c6c2acd826-Paper.pdf)][[code](https://github.com/Div99/W-Stereo-Disp)][[project](https://div99.github.io/W-Stereo-Disp/)]
-56. Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)][code]
-57. [https://github.com/meteorshowers/X-StereoLab](https://github.com/meteorshowers/X-StereoLab)
+26. Learning deep correspondence through prior and posterior feature constancy [[paper](https://arxiv.org/pdf/1712.01039v1.pdf)][code]
+27. MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching [[paper](https://arxiv.org/pdf/2108.09770.pdf)][[code](https://github.com/cogsys-tuebingen/mobilestereonet)]
+28. Multi-Level Context Ultra-Aggregation for Stereo Matching  [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nie_Multi-Level_Context_Ultra-Aggregation_for_Stereo_Matching_CVPR_2019_paper.pdf)][]
+29. Object-Centric Stereo Matching for 3D Object Detection  [[paper](https://arxiv.org/pdf/1909.07566.pdf)][[code](https://github.com/adpon/oc_stereo)]
+30. Object Scene Flow for Autonomous Vehicles  [[paper](http://www.cvlibs.net/publications/Menze2015CVPR.pdf)][[project](http://www.cvlibs.net/projects/objectsceneflow/)]
+31. On the Benefit of Adversarial Training for Monocular Depth Estimation [[paper](https://arxiv.org/pdf/1910.13340.pdf)][[code](https://github.com/rickgroen/depthgan)]
+32. On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey [[paper](https://arxiv.org/pdf/2004.08566.pdf)]
+33. Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching [[paper](https://arxiv.org/pdf/1806.01677.pdf)][[code](https://github.com/tlkvstepan/PracticalDeepStereo_NIPS2018)]
+34. Progressive Fusion for Unsupervised Binocular Depth Estimation using Cycled Networks [[paper](https://arxiv.org/abs/1909.07667)][[code](https://github.com/andrea-pilzer/PFN-depth)]
+35. Pyramid Stereo Matching Network [[paper](https://arxiv.org/pdf/1803.08669.pdf)][[code](https://github.com/JiaRenChang/PSMNet)]
+36. Real-Time Semantic Stereo Matching  [[paper](https://arxiv.org/pdf/1910.00541.pdf)][code]
+37. Reversing the cycle: self-supervised deep  stereo through enhanced monocular distillation [[paper](https://arxiv.org/pdf/2008.07130.pdf)][[code](https://github.com/FilippoAleotti/Reversing)]
+38. Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/pdf/2011.02910.pdf)][[code](https://github.com/mli0603/stereo-transformer)]
+39. Self-Supervised 3D Keypoint Learning for Ego-Motion Estimation [[paper](https://arxiv.org/pdf/1912.03426.pdf)][code]
+40. Self-Supervised Learning for Stereo Matching with Self-Improving Ability  [[paper](http://xxx.itp.ac.cn/pdf/1709.00930.pdf)][code]
+41. Self-supervised Learning in Depth [[blog](https://medium.com/toyotaresearch/self-supervised-learning-in-depth-part-1-of-2-74825baaaa04)][[blog](https://medium.com/toyotaresearch/self-supervised-learning-in-depth-part-2-of-2-93a42ce6586f)]
+42. Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance [[paper](https://arxiv.org/pdf/2007.06936.pdf)][[code](https://github.com/ifnspaml/SGDepth)]
+43. Semantically-Guided Representation Learning for Self-Supervised Monocular Depth [[paper](https://arxiv.org/pdf/2002.12319.pdf)][[code](https://github.com/TRI-ML/packnet-sfm)]
+44. Semantic Stereo Matching with Pyramid Cost Volumes  [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Semantic_Stereo_Matching_With_Pyramid_Cost_Volumes_ICCV_2019_paper.pdf)][code]
+45. SimNet: Enabling Robust Unknown Object Manipulation from Pure Synthetic Data via Stereo [[paper](https://arxiv.org/abs/2106.16118)][[code](https://github.com/ToyotaResearchInstitute/simnet)][[blog](https://sites.google.com/view/simnet-corl-2021)][[blog](https://medium.com/toyotaresearch/enabling-real-world-object-manipulation-with-sim-to-real-transfer-20d4962e029)]
+46. Single View Stereo Matching  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Single_View_Stereo_CVPR_2018_paper.pdf)][[code](https://github.com/lawy623/SVS)]
+47. Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion [[paper](https://arxiv.org/pdf/2103.16690.pdf)][[code](https://github.com/TRI-ML/packnet-sfm)]
+48. Stereo Matching Using Multi-level Cost Volume and Multi-scale Feature Constancy  [paper]
+49. StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction [[paper](https://arxiv.org/pdf/1807.08865.pdf)][[code](https://github.com/andrewlstewart/StereoNet_PyTorch)]
+50. SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation [[paper](https://arxiv.org/pdf/1810.01849.pdf)][code]
+51. The Edge of Depth: Explicit Constraints between Segmentation and Depth [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_The_Edge_of_Depth_Explicit_Constraints_Between_Segmentation_and_Depth_CVPR_2020_paper.pdf)][[code](https://github.com/TWJianNuo/EdgeDepth-Release)][[project](http://cvlab.cse.msu.edu/project-edgedepth.html)]
+52. Unsupervised Adversarial Depth Estimation using Cycled Generative Networks [[paper](https://arxiv.org/pdf/1807.10915.pdf)][[code](https://github.com/andrea-pilzer/unsup-stereo-depthGAN)]
+53. Unsupervised Learning of Stereo Matching  [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Unsupervised_Learning_of_ICCV_2017_paper.pdf)][code]
+54. Unsupervised monocular depth estimation with left-right consistency [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)][[code](https://github.com/mrharicot/monodepth)][[code](https://github.com/OniroAI/MonoDepth-PyTorch)][[code](https://github.com/alwynmathew/monodepth-pytorch)][[code](https://github.com/vinceecws/Monodepth)][[code](https://github.com/SharhadBashar/Depth-Percetion)][[project](http://visual.cs.ucl.ac.uk/pubs/monoDepth/)]
+55. Vision Transformers for Dense Prediction [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf)][[code](https://github.com/isl-org/DPT)]
+56. Wasserstein Distances for Stereo Disparity Estimation [[paper](https://papers.nips.cc/paper/2020/file/fe7ecc4de28b2c83c016b5c6c2acd826-Paper.pdf)][[code](https://github.com/Div99/W-Stereo-Disp)][[project](https://div99.github.io/W-Stereo-Disp/)]
+57. Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)][code]
+58. [https://github.com/meteorshowers/X-StereoLab](https://github.com/meteorshowers/X-StereoLab)
 
 ---
 
@@ -94,13 +95,11 @@
 30. The Devil of Face Recognition is in the Noise [[paper](https://arxiv.org/pdf/1807.11649.pdf)] [[code](https://github.com/fwang91/IMDb-Face)][[code](https://github.com/IrvingShu/IMDb-Face-Download/tree/master/src)]
 31. WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition [[paper](https://arxiv.org/pdf/2103.04098.pdf)][code]
 
-
 ---
 
 # detection
 
 1. Augmentation for small object detection [[paper](https://arxiv.org/pdf/1902.07296.pdf)]
-
 
 ---
 
@@ -110,7 +109,6 @@
 2. Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering [[paper](https://arxiv.org/pdf/2010.09125.pdf)][code][[project](https://nv-tlabs.github.io/GANverse3D/)]
 3. Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization [[paper](https://arxiv.org/pdf/2104.05833.pdf)][[code](https://github.com/nv-tlabs/semanticGAN_code)][[project](https://nv-tlabs.github.io/semanticGAN/)]
 4. DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort [[paper](https://arxiv.org/pdf/2104.06490.pdf)][[code](https://github.com/nv-tlabs/datasetGAN_release/)][[project](https://nv-tlabs.github.io/datasetGAN/)]
-
 
 ---
 
